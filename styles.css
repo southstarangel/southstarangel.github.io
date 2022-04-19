@@ -44,15 +44,16 @@ html, body {
 }
 
 .main-nav {
-    text-align: center;
+    text-align: left;
     font-size: 1.1em;
     font-weight: lighter;
 
 }
 
 .header-text {
-    text-align: center;
+    text-align: left;
     margin: 0;
+    padding: .2em;
     font-size: 4em;
     font-family: "Booter - Zero Zero";
     font-weight: normal;
@@ -89,7 +90,7 @@ html, body {
 .main-footer {
     background-image: url("Pictures/Header.jpg");
     color: white;
-    padding: .25em 0;
+    padding: .10em 5;
 }
 
 .section-footer {
